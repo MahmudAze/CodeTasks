@@ -35,6 +35,39 @@
         //    Console.WriteLine("Is Bitdi!");
         //}
         #endregion
+
+        #region Dersdeki praktika
+
+        //static void GetNumber1()
+        //{
+        //    for (int i = 0; i < 100; i++)
+        //    {
+        //        Console.WriteLine($"Number - 1: {i}");
+        //    }
+        //}
+
+        //static void GetNumber2()
+        //{
+        //    for (int i = 0; i < 500; i++)
+        //    {
+        //        Console.WriteLine($"Number - 2: {i}");
+        //    }
+        //}
+
+        //static void Main(string[] args)
+        //{
+        //    Thread t1 = new Thread(GetNumber1);
+        //    Thread t2 = new Thread(GetNumber2);
+
+        //    t1.Start();
+
+
+        //    t2.Start();
+
+
+        //}
+
+        #endregion
     }
 
 }

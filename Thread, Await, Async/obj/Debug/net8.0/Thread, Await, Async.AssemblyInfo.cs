@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Thread, Await, Async")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d23e761131c8c5b3cc3cdb48cdba9ebebc54f437")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3ced689372e832096ef34f23987bedec838d8ad")]
 [assembly: System.Reflection.AssemblyProductAttribute("Thread, Await, Async")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Thread, Await, Async")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
