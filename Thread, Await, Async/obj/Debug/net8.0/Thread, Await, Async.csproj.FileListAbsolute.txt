@@ -1,0 +1,15 @@
+D:\Code Academy Tasks\Thread, Await, Async\bin\Debug\net8.0\Thread, Await, Async.exe
+D:\Code Academy Tasks\Thread, Await, Async\bin\Debug\net8.0\Thread, Await, Async.deps.json
+D:\Code Academy Tasks\Thread, Await, Async\bin\Debug\net8.0\Thread, Await, Async.runtimeconfig.json
+D:\Code Academy Tasks\Thread, Await, Async\bin\Debug\net8.0\Thread, Await, Async.dll
+D:\Code Academy Tasks\Thread, Await, Async\bin\Debug\net8.0\Thread, Await, Async.pdb
+D:\Code Academy Tasks\Thread, Await, Async\obj\Debug\net8.0\Thread, Await, Async.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Academy Tasks\Thread, Await, Async\obj\Debug\net8.0\Thread, Await, Async.AssemblyInfoInputs.cache
+D:\Code Academy Tasks\Thread, Await, Async\obj\Debug\net8.0\Thread, Await, Async.AssemblyInfo.cs
+D:\Code Academy Tasks\Thread, Await, Async\obj\Debug\net8.0\Thread, Await, Async.csproj.CoreCompileInputs.cache
+D:\Code Academy Tasks\Thread, Await, Async\obj\Debug\net8.0\Thread, Await, Async.sourcelink.json
+D:\Code Academy Tasks\Thread, Await, Async\obj\Debug\net8.0\Thread, Await, Async.dll
+D:\Code Academy Tasks\Thread, Await, Async\obj\Debug\net8.0\refint\Thread, Await, Async.dll
+D:\Code Academy Tasks\Thread, Await, Async\obj\Debug\net8.0\Thread, Await, Async.pdb
+D:\Code Academy Tasks\Thread, Await, Async\obj\Debug\net8.0\Thread, Await, Async.genruntimeconfig.cache
+D:\Code Academy Tasks\Thread, Await, Async\obj\Debug\net8.0\ref\Thread, Await, Async.dll
