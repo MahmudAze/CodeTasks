@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Polymorphism,Abstraction, Interface, Namespace, DLL/1.0.0": {
+        "runtime": {
+          "Polymorphism,Abstraction, Interface, Namespace, DLL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Polymorphism,Abstraction, Interface, Namespace, DLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

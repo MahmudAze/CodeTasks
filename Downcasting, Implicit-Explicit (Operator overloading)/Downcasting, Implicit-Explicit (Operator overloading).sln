@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Downcasting, Implicit-Explicit (Operator overloading)", "Downcasting, Implicit-Explicit (Operator overloading).csproj", "{F40D176F-F4C0-4288-A101-0965187BFFBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F40D176F-F4C0-4288-A101-0965187BFFBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F40D176F-F4C0-4288-A101-0965187BFFBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F40D176F-F4C0-4288-A101-0965187BFFBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F40D176F-F4C0-4288-A101-0965187BFFBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59934A87-74BF-4ED3-A070-1A7DBADA4EB7}
+	EndGlobalSection
+EndGlobal

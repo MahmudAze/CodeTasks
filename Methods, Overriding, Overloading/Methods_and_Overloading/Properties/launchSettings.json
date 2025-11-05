@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Methods_and_Overloading": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}

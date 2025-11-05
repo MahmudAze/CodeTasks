@@ -1,0 +1,15 @@
+D:\Code Academy Tasks\Generics, Operator overloading\bin\Debug\net9.0\Generics, Operator overloading.exe
+D:\Code Academy Tasks\Generics, Operator overloading\bin\Debug\net9.0\Generics, Operator overloading.deps.json
+D:\Code Academy Tasks\Generics, Operator overloading\bin\Debug\net9.0\Generics, Operator overloading.runtimeconfig.json
+D:\Code Academy Tasks\Generics, Operator overloading\bin\Debug\net9.0\Generics, Operator overloading.dll
+D:\Code Academy Tasks\Generics, Operator overloading\bin\Debug\net9.0\Generics, Operator overloading.pdb
+D:\Code Academy Tasks\Generics, Operator overloading\obj\Debug\net9.0\Generics, Operator overloading.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Academy Tasks\Generics, Operator overloading\obj\Debug\net9.0\Generics, Operator overloading.AssemblyInfoInputs.cache
+D:\Code Academy Tasks\Generics, Operator overloading\obj\Debug\net9.0\Generics, Operator overloading.AssemblyInfo.cs
+D:\Code Academy Tasks\Generics, Operator overloading\obj\Debug\net9.0\Generics, Operator overloading.csproj.CoreCompileInputs.cache
+D:\Code Academy Tasks\Generics, Operator overloading\obj\Debug\net9.0\Generics, Operator overloading.sourcelink.json
+D:\Code Academy Tasks\Generics, Operator overloading\obj\Debug\net9.0\Generics, Operator overloading.dll
+D:\Code Academy Tasks\Generics, Operator overloading\obj\Debug\net9.0\refint\Generics, Operator overloading.dll
+D:\Code Academy Tasks\Generics, Operator overloading\obj\Debug\net9.0\Generics, Operator overloading.pdb
+D:\Code Academy Tasks\Generics, Operator overloading\obj\Debug\net9.0\Generics, Operator overloading.genruntimeconfig.cache
+D:\Code Academy Tasks\Generics, Operator overloading\obj\Debug\net9.0\ref\Generics, Operator overloading.dll

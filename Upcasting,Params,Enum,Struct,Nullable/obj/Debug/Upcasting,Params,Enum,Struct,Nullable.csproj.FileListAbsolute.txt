@@ -1,0 +1,8 @@
+D:\Code Academy Tasks\Upcasting,Params,Enum,Struct,Nullable\bin\Debug\Upcasting,Params,Enum,Struct,Nullable.exe.config
+D:\Code Academy Tasks\Upcasting,Params,Enum,Struct,Nullable\bin\Debug\Upcasting,Params,Enum,Struct,Nullable.exe
+D:\Code Academy Tasks\Upcasting,Params,Enum,Struct,Nullable\bin\Debug\Upcasting,Params,Enum,Struct,Nullable.pdb
+D:\Code Academy Tasks\Upcasting,Params,Enum,Struct,Nullable\obj\Debug\Upcasting,Params,Enum,Struct,Nullable.csproj.AssemblyReference.cache
+D:\Code Academy Tasks\Upcasting,Params,Enum,Struct,Nullable\obj\Debug\Upcasting,Params,Enum,Struct,Nullable.csproj.CoreCompileInputs.cache
+D:\Code Academy Tasks\Upcasting,Params,Enum,Struct,Nullable\obj\Debug\Upcasting,Params,Enum,Struct,Nullable.exe
+D:\Code Academy Tasks\Upcasting,Params,Enum,Struct,Nullable\obj\Debug\Upcasting,Params,Enum,Struct,Nullable.pdb
+D:\Code Academy Tasks\Upcasting,Params,Enum,Struct,Nullable\obj\Debug\Upcasting,Params,Enum,Struct,Nullable.exe.config

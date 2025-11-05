@@ -1,0 +1,15 @@
+D:\Code Academy Tasks\Static, Extentions\bin\Debug\net8.0\Static, Extentions.exe
+D:\Code Academy Tasks\Static, Extentions\bin\Debug\net8.0\Static, Extentions.deps.json
+D:\Code Academy Tasks\Static, Extentions\bin\Debug\net8.0\Static, Extentions.runtimeconfig.json
+D:\Code Academy Tasks\Static, Extentions\bin\Debug\net8.0\Static, Extentions.dll
+D:\Code Academy Tasks\Static, Extentions\bin\Debug\net8.0\Static, Extentions.pdb
+D:\Code Academy Tasks\Static, Extentions\obj\Debug\net8.0\Static, Extentions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Academy Tasks\Static, Extentions\obj\Debug\net8.0\Static, Extentions.AssemblyInfoInputs.cache
+D:\Code Academy Tasks\Static, Extentions\obj\Debug\net8.0\Static, Extentions.AssemblyInfo.cs
+D:\Code Academy Tasks\Static, Extentions\obj\Debug\net8.0\Static, Extentions.csproj.CoreCompileInputs.cache
+D:\Code Academy Tasks\Static, Extentions\obj\Debug\net8.0\Static, Extentions.sourcelink.json
+D:\Code Academy Tasks\Static, Extentions\obj\Debug\net8.0\Static, Extentions.dll
+D:\Code Academy Tasks\Static, Extentions\obj\Debug\net8.0\refint\Static, Extentions.dll
+D:\Code Academy Tasks\Static, Extentions\obj\Debug\net8.0\Static, Extentions.pdb
+D:\Code Academy Tasks\Static, Extentions\obj\Debug\net8.0\Static, Extentions.genruntimeconfig.cache
+D:\Code Academy Tasks\Static, Extentions\obj\Debug\net8.0\ref\Static, Extentions.dll

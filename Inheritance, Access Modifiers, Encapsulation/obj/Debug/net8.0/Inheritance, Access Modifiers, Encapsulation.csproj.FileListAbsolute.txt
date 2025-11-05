@@ -1,0 +1,15 @@
+D:\Code Academy Tasks\Inheritance, Access Modifiers, Encapsulation\bin\Debug\net8.0\Inheritance, Access Modifiers, Encapsulation.exe
+D:\Code Academy Tasks\Inheritance, Access Modifiers, Encapsulation\bin\Debug\net8.0\Inheritance, Access Modifiers, Encapsulation.deps.json
+D:\Code Academy Tasks\Inheritance, Access Modifiers, Encapsulation\bin\Debug\net8.0\Inheritance, Access Modifiers, Encapsulation.runtimeconfig.json
+D:\Code Academy Tasks\Inheritance, Access Modifiers, Encapsulation\bin\Debug\net8.0\Inheritance, Access Modifiers, Encapsulation.dll
+D:\Code Academy Tasks\Inheritance, Access Modifiers, Encapsulation\bin\Debug\net8.0\Inheritance, Access Modifiers, Encapsulation.pdb
+D:\Code Academy Tasks\Inheritance, Access Modifiers, Encapsulation\obj\Debug\net8.0\Inheritance, Access Modifiers, Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Academy Tasks\Inheritance, Access Modifiers, Encapsulation\obj\Debug\net8.0\Inheritance, Access Modifiers, Encapsulation.AssemblyInfoInputs.cache
+D:\Code Academy Tasks\Inheritance, Access Modifiers, Encapsulation\obj\Debug\net8.0\Inheritance, Access Modifiers, Encapsulation.AssemblyInfo.cs
+D:\Code Academy Tasks\Inheritance, Access Modifiers, Encapsulation\obj\Debug\net8.0\Inheritance, Access Modifiers, Encapsulation.csproj.CoreCompileInputs.cache
+D:\Code Academy Tasks\Inheritance, Access Modifiers, Encapsulation\obj\Debug\net8.0\Inheritance, Access Modifiers, Encapsulation.sourcelink.json
+D:\Code Academy Tasks\Inheritance, Access Modifiers, Encapsulation\obj\Debug\net8.0\Inheritance, Access Modifiers, Encapsulation.dll
+D:\Code Academy Tasks\Inheritance, Access Modifiers, Encapsulation\obj\Debug\net8.0\refint\Inheritance, Access Modifiers, Encapsulation.dll
+D:\Code Academy Tasks\Inheritance, Access Modifiers, Encapsulation\obj\Debug\net8.0\Inheritance, Access Modifiers, Encapsulation.pdb
+D:\Code Academy Tasks\Inheritance, Access Modifiers, Encapsulation\obj\Debug\net8.0\Inheritance, Access Modifiers, Encapsulation.genruntimeconfig.cache
+D:\Code Academy Tasks\Inheritance, Access Modifiers, Encapsulation\obj\Debug\net8.0\ref\Inheritance, Access Modifiers, Encapsulation.dll
